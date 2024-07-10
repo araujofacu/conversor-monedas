@@ -73,6 +73,4 @@ Facundo Araujo
 
 Aquí puedes ver una demostración visual de cómo funciona el proyecto:
 
-[![Conversor de Monedas - Demo](https://youtu.be/MAvhkCw2Hvk)]
-
-Haz clic en la imagen para ver el video.
+[Conversor de Monedas - Demo](https://youtu.be/MAvhkCw2Hvk)
