@@ -33,7 +33,7 @@ Facundo Araujo
 ## Requisitos Previos
 
 - Java Development Kit (JDK) versión 17 o superior.
-- Biblioteca Gson para manejo de JSON (incluida en el proyecto a través de Maven).
+- Biblioteca Gson para manejo de JSON (incluida en el proyecto).
 
 ## Instalación y Uso
 
@@ -42,31 +42,26 @@ Facundo Araujo
    ```bash
    git clone https://github.com/araujofacu/conversor-monedas.git
 
-2. **Compilar el proyecto:**
+2. **Abrir el proyecto en IntelliJ IDEA:**
 
-   Desde la raíz del proyecto:
+- Abre IntelliJ IDEA.
+- Ve a `File > Open` y navega hasta la carpeta del proyecto que has clonado.
+- Selecciona la carpeta del proyecto y haz clic en `OK`.
 
-   ```bash
-   cd conversor-monedas
-   mvn compile
-   
 3. **Ejecutar el programa:**
-
-   Desde la raíz del proyecto
-
-   ```bash
-   mvn exec:java -Dexec.mainClass="com.sistema.conversor.Principal"
-
-4. **Seguir las instrucciones en consola para realizar conversiones de moneda.**
+   
+- En IntelliJ IDEA, abre la clase `Principal.java` ubicada en `src/com/sistema/conversor/Principal.java`.
+- Haz clic derecho en `Principal.java` y selecciona Run `'Principal.main()'`.
+- El programa se ejecutará en la consola de IntelliJ y podrás seguir las instrucciones para realizar conversiones de moneda.
 
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
 
 1. Realiza un fork del repositorio.
-2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-3. Realiza tus cambios y haz commit (git commit -am 'Añade nueva funcionalidad').
-4. Sube tus cambios a la rama (git push origin feature/nueva-funcionalidad).
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
+3. Realiza tus cambios y haz commit (`git commit -am 'Añade nueva funcionalidad'`).
+4. Sube tus cambios a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un pull request para que tus cambios sean revisados.
 
 ## Demostración
