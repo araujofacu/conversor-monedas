@@ -69,3 +69,7 @@ Facundo Araujo
 Aquí puedes ver una demostración visual de cómo funciona el proyecto:
 
 [Conversor de Monedas - Demo](https://youtu.be/MAvhkCw2Hvk)
+
+## Insignia
+
+![Insignia del Challenge](https://github.com/araujofacu/conversor-monedas/blob/main/Badge-Conversor.png)
