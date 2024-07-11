@@ -20,15 +20,15 @@ Este proyecto es un Conversor de Monedas desarrollado en Java que te permite con
 - **ConsultaAPI.java:** Realización de consultas a la API externa.
 - **Principal.java:** Punto de entrada del programa, gestión de interfaz de usuario.
 
-## Desarrollado por
-
-Facundo Araujo
-
 ## Funcionalidades
 
 - **Obtención de Tasas de Cambio:** Solicita y actualiza tasas desde la API.
 - **Conversión de Moneda:** Permite al usuario seleccionar monedas y convertir montos.
 - **Interfaz de Usuario:** Implementación de una interfaz de línea de comandos.
+
+## Desarrollado por
+
+Facundo Araujo
 
 ## Requisitos Previos
 
